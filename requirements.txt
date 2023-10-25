@@ -1,0 +1,7 @@
+Pillow==9.4.0
+gdown==4.6.6
+numpy==1.23.5
+requests==2.31.0
+pyTelegramBotAPI==4.14.0
+torch==2.1.0
+torchvision==0.16.0
